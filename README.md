@@ -1,4 +1,10 @@
-### Hi there 👋
+# Hi there 👋
+
+#### My name is Leonardo Dallos and I'm System Engineer
+
+In this repository you can find projects related to web development, artificial intelligence, data analysis, video game development and more.
+
+- :envelope_with_arrow: leo3.14@hotmail.com
 
 <!--
 **leonardodallosmartinez/leonardodallosmartinez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
