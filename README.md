@@ -1,6 +1,6 @@
 # Hi there 👋
 
-#### My name is Leonardo Dallos and I'm System Engineer
+#### My name is Leonardo Dallos and I'm Systems Engineer
 
 In this repository you can find projects related to web development, artificial intelligence, data analysis, video game development and more.
 
